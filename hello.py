@@ -1,2 +1,2 @@
-msg = "Hello Polina and Roman"
+msg = "Hello Polina and Roman and all group"
 print(msg)
